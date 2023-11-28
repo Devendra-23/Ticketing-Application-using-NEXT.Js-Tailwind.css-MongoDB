@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Ticketing-App
+- A simple ticketing application using features of Next.js, Tailwind.css, MongoDB & Mongoose to provide a smooth experience!
+- CRUD functionality
 
-## Getting Started
 
-First, run the development server:
+## TECH-STACK
+- Next.js
+- Mongoose
+- MongoDB
+- Tailwind.css
+  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Images/Result
+<img width="1438" alt="Screenshot 2023-11-28 at 1 34 34 PM" src="https://github.com/Devendra-23/Ticketing-Application-using-NEXT.Js-Tailwind.css-MongoDB/assets/94075388/af48cf32-1361-43ad-9761-25ed972c76ee">
+<img width="1438" alt="Screenshot 2023-11-28 at 1 35 29 PM" src="https://github.com/Devendra-23/Ticketing-Application-using-NEXT.Js-Tailwind.css-MongoDB/assets/94075388/109c65d7-3ca9-4451-935b-704cd76daeaf">
+<img width="1438" alt="Screenshot 2023-11-28 at 1 36 03 PM" src="https://github.com/Devendra-23/Ticketing-Application-using-NEXT.Js-Tailwind.css-MongoDB/assets/94075388/db0cd1f3-f6b6-4a4b-aa57-94aec2625e4e">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
